@@ -1,4 +1,4 @@
-package com.tcs;
+package main.java.com.tcs;
 
 public class First
 {
